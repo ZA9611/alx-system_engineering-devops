@@ -1,3 +1,5 @@
 #!/bin/bash
 pwd
-
+ls
+root@a6aff0970940:/alx-system_engineering-devops/0x00-shell_basics# ls
+clear
