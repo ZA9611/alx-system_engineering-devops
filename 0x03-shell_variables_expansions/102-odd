@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 perl -lne 'print if $. % 2 ==1'
+=======
+perl -lne 'print if $. % 2 ==1'
+>>>>>>> 00401b36c7fb78c61ac4543d099b2c71e8950321
